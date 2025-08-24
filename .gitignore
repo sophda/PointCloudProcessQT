@@ -1,0 +1,7 @@
+/build
+/buildcmake
+/file
+/cmake-build-debug
+*.obj
+Makefile
+
